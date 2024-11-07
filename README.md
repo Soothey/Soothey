@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Soothey
-- 👀 I’m interested in ... HTML, CSS, JAVASCRIPT, AND SOLIDITY
+- 👋 Hi, I’m @Soothey Purple Boi
+- 👀 I’m interested in ... HTML, CSS, JAVASCRIPT, AND SOLIDITY & Collectibles
 - 🌱 I’m currently learning ... SOLIDITY
-- 💞️ I’m looking to collaborate on ... TALK SHOW FOR INVESTORS 
+- 💞️ I’m looking to collaborate on ... GemstoneCoin.com
 - 📫 How to reach me ...DIEKMANSETH@GMAIL.COM
 
 <!---
